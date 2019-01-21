@@ -1,0 +1,77 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "500 Circle Way"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "10101 Binary Court"
+    }
+  ],
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "species": "Cat"
+    },
+    {
+      "id": 2,
+      "name": "Jack",
+      "species": "Rabbit"
+    },
+    {
+      "id": 3,
+      "name": "Angus",
+      "species": "Turtle"
+    },
+    {
+      "id": 4,
+      "name": "Henley",
+      "species": "Scorpion"
+    },
+    {
+      "id": 5,
+      "name": "Derkins",
+      "species": "Dog"
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Hank Hill",
+      "phoneNumber": "931-500-9283"
+    },
+    {
+      "id": 2,
+      "name": "Finn the Human",
+      "phoneNumber": "123-453-6354"
+    },
+    {
+      "id": 3,
+      "name": "Steven Universe",
+      "phoneNumber": "949-828-8437"
+    },
+    {
+      "id": 4,
+      "name": "Bojack Horseman",
+      "phoneNumber": "718-382-1342"
+    }
+  ]
+}
